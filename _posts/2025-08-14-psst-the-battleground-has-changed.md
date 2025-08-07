@@ -10,6 +10,7 @@ tags:
 
 <img src="{{ '/assets/images/war-zone.jpeg' | relative_url }}" alt="" itemprop="image" class="u-photo">
 
+
 We all know competition in business is fierce. No one needs to tell you that. Everywhere, companies compete based on product, technology, price and the carcasses of failed businesses are everywhere...
 
 "About half of all new establishments survive five years or more and about one-third survive 10 years or more. As one would expect, the probability of survival increases with a firm’s age. Survival rates have changed little over time.”
