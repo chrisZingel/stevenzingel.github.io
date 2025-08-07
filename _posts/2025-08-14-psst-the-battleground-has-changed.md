@@ -38,3 +38,4 @@ Psst this isn’t a secret. Gartner has done some research Gartner – 2014 – 
 Steve Zingel, Change Manager Professional is committed to facilitating and supporting businesses and organisations, undertaking complex and challenging change initiatives.
 {: .notice--info}
 
+
